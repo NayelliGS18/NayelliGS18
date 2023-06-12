@@ -16,3 +16,9 @@ Aquí están algunos de los conocimientos en los que me he enfocado:
 - **HTML**: Tengo experiencia en la creación de estructuras y el marcado semántico de páginas web utilizando HTML5.
 - **CSS**: Puedo dar estilo a las páginas web utilizando CSS3. Estoy familiarizado con la creación de diseños responsivos y la implementación de animaciones.
 - **JavaScript**: Tengo conocimientos en JavaScript para agregar interactividad y dinamismo a las páginas web. He trabajado con manipulación del DOM y eventos.
+
+## Contacto
+
+¡Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en contactarme!
+
+- Correo electrónico: ngayosos@unprg.edu.pe
